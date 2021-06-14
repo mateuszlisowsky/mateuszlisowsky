@@ -1,21 +1,26 @@
 ### Hello! 😊
 
-🔴 My name is Mateusz and I'm currently a freshly-baked web development apprentice - mainly focusing front-end, but also having back-end in mind.
+🔴 My name is Mateusz and I'm currently a freshly-baked web development apprentice - mainly focusing front-end, but having back-end in mind as well.
+
+Looking for a full-time job! 💼
 
 
-### My biggest ones yet:
+### My biggest projects, so far! 💡
+- ![Scuvo 🌊](https://github.com/FoxSaysDerp/scuvo-app) - simple PWA for posting scuba-diving tips, created with Firebase implementation
+- ![Smoothe Delight 🍨](https://github.com/FoxSaysDerp/smoothie-delight) - pleasant landing page for a fictional brand, created with Bootstrap
 
 -----
 
 ### Feel free to check my portoflios! 🔎
 
-![Github repos](https://github.com/FoxSaysDerp?tab=repositories)
+◽ ![Github repos](https://github.com/FoxSaysDerp?tab=repositories)
 
-![Behance](https://www.behance.net/foxsaysderp)
+◽ ![Behance](https://www.behance.net/foxsaysderp)
 
 ## 💻Fluent in:
 - HTML5 #️⃣
 - CSS3 🖌
+- Bootstrap 4 🎀
 - Git ✔
 - English (C1) 💬
 
@@ -24,11 +29,9 @@
 - SASS 🎨
 - PHP 🕯
 
-## Planning on learning:
+## 🔭Planning on learning:
 - React.js 💎
 - Angular 📕
 - Vue.js 🧶
-
------
 
 
