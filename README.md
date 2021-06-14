@@ -2,7 +2,16 @@
 
 🔴 My name is Mateusz and I'm currently a freshly-baked web development apprentice - mainly focusing front-end, but also having back-end in mind.
 
+
+### My biggest ones yet:
+
 -----
+
+### Feel free to check my portoflios! 🔎
+
+![Github repos](https://github.com/FoxSaysDerp?tab=repositories)
+
+![Behance](https://www.behance.net/foxsaysderp)
 
 ## 💻Fluent in:
 - HTML5 #️⃣
@@ -22,8 +31,4 @@
 
 -----
 
-### Feel free to check my portoflios! 🔎
 
-![Github repos](https://github.com/FoxSaysDerp?tab=repositories)
-
-![Behance](https://www.behance.net/foxsaysderp)
