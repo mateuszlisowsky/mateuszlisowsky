@@ -12,12 +12,6 @@ Looking for a full-time job! 💼
 
 -----
 
-### Feel free to check my portoflios! 🔎
-
-◽ ![Github repos](https://github.com/FoxSaysDerp?tab=repositories)
-
-◽ ![Behance](https://www.behance.net/foxsaysderp)
-
 ## 💻Fluent in:
 - HTML5 #️⃣
 - CSS3 🖌
