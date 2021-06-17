@@ -7,8 +7,8 @@ Looking for a full-time job! 💼
 
 ### My biggest projects, so far! 💡
 - ![Scuvo 🌊](https://github.com/FoxSaysDerp/scuvo-app) - simple PWA for posting scuba-diving tips, created with Firebase implementation
-- ![Smoothe Delight 🍨](https://github.com/FoxSaysDerp/smoothie-delight) - pleasant landing page for a fictional brand, created with Bootstrap
 - ![Vataha 🐾](https://github.com/FoxSaysDerp/vataha) - lightweight social media revolving around posting pictures of animals, created with PHP
+- ![Smoothe Delight 🍨](https://github.com/FoxSaysDerp/smoothie-delight) - pleasant landing page for a fictional brand, created with Bootstrap
 
 -----
 
