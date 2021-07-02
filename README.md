@@ -21,12 +21,14 @@ Looking for a full-time job! 💼
 
 ## 🌱Currently getting to know with:
 - Vanilla JS 💤
+- React.js 💎
+- Gatsby.js 🤵
 - PHP 🌄
 - SASS 🎨
 - PHP 🕯
 
 ## 🔭Planning on learning:
-- React.js 💎
+- Next.js 
 - Angular 📕
 - Vue.js 🧶
 
