@@ -28,7 +28,7 @@ Looking for a full-time job! 💼
 - PHP 🕯
 
 ## 🔭Planning on learning:
-- Next.js 
+- Next.js ⏭
 - Angular 📕
 - Vue.js 🧶
 
