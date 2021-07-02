@@ -23,7 +23,6 @@ Looking for a full-time job! 💼
 - Vanilla JS 💤
 - React.js 💎
 - Gatsby.js 🤵
-- PHP 🌄
 - SASS 🎨
 - PHP 🕯
 
