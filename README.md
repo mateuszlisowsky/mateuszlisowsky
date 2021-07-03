@@ -28,7 +28,4 @@ Looking for a full-time job! 💼
 
 ## 🔭Planning on learning:
 - Next.js ⏭
-- Angular 📕
-- Vue.js 🧶
-
-
+- Redux 🖱
