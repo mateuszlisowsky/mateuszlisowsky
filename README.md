@@ -15,6 +15,9 @@ Looking for a full-time job! 💼
 ## 💻Fluent in:
 - HTML5 #️⃣
 - CSS3 🖌
+    - BEM methodology
+    - Flexbox
+    - Grid
 - Bootstrap 4 🎀
 - Git ✔
 - English (C1) 💬
