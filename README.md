@@ -2,8 +2,6 @@
 
 🔴 My name is Mateusz and I'm currently a freshly-baked web development apprentice - mainly focusing front-end, but having back-end in mind as well.
 
-Looking for a full-time job! 💼
-
 
 ### My biggest projects, so far! 💡
 - ![Scuvo 🌊](https://github.com/FoxSaysDerp/scuvo-app) - simple PWA for posting scuba-diving tips, created with Firebase implementation
