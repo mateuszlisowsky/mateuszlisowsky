@@ -24,7 +24,7 @@
 - Vanilla JS 💤
 - React.js 💎
 - Gatsby.js 🤵
-- SASS 🎨
+- SCSS 🎨
 - PHP 🕯
 
 ## 🔭Planning on learning:
