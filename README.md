@@ -16,7 +16,7 @@
     - SCSS 🎨
     - BEM methodology
     - Flexbox, Grid
-- Bootstrap 4 🎀
+- Bootstrap 4 & 5 🎀
 - Git ✔
 - English (C1) 💬
 
