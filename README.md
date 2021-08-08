@@ -25,7 +25,7 @@
 - React.js 💎
     - Gatsby.js 🤵
 - PHP 🕯
-    - Wordpress
+    - Wordpress 
 
 ## 🔭Planning on learning:
 - Next.js ⏭
