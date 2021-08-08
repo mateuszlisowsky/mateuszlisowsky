@@ -15,17 +15,17 @@
 - CSS3 🖌
     - SCSS 🎨
     - BEM methodology
-    - Flexbox, Grid
+    - Flexbox, Grid, RWD
 - Bootstrap 4 & 5 🎀
 - Git ✔
 - English (C1) 💬
 
 ## 🌱Currently getting to know with:
-- Vanilla JS 💤
+- Vanilla JS (ES6) 💤
 - React.js 💎
     - Gatsby.js 🤵
 - PHP 🕯
-    - Wordpress Back-end
+    - Wordpress
 
 ## 🔭Planning on learning:
 - Next.js ⏭
