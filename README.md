@@ -1,6 +1,6 @@
 ### Hello! 😊
 
-🔴 My name is Mateusz and I'm currently a freshly-baked web development apprentice - mainly focusing front-end, but having back-end in mind as well.
+🔴 My name is Mateusz and I'm currently a freshly-baked web development apprentice - mainly focusing on front-end, but having back-end in mind as well.
 
 
 ### My biggest projects, so far! 💡
@@ -25,7 +25,8 @@
 - React.js 💎
     - Gatsby.js 🤵
 - PHP 🕯
-    - Wordpress 
+    - Wordpress
+    - PHP5 
 
 ## 🔭Planning on learning:
 - Next.js ⏭
