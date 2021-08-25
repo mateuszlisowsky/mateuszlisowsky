@@ -16,7 +16,7 @@
     - SCSS 🎨
     - BEM methodology
     - Flexbox, Grid, RWD
-- Bootstrap 4 & 5 🎀
+- Bootstrap 4 & 5 ✨
 - Git ✔
 - English (C1) 💬
 
@@ -24,9 +24,10 @@
 - Vanilla JS (ES6) 💤
 - React.js 💎
     - Gatsby.js 🤵
+    - GraphQL 🎀
 - PHP 🕯
-    - Wordpress
-    - PHP5 
+    - Wordpress 🌎
+    - PHP5 🏞️
 
 ## 🔭Planning on learning:
 - Next.js ⏭
