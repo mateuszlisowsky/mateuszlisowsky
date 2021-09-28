@@ -19,7 +19,8 @@
     - Bootstrap 4 & 5 ✨
 - JavaScript (ES6) 💤
 - Gatsby.js 🤵
-- GraphQL 🎀
+    - GraphQL 🎀
+    - Styled Components 🖼
 - Wordpress 🌎
 - Git ✔
 - English (C1) 💬
@@ -27,8 +28,8 @@
 ## 🌱Currently getting to know with:
 - React.js 💎
 - PHP 🕯
-    - Laravel 🏞️
 
 ## 🔭Planning on learning:
 - Next.js ⏭
 - Redux 🖱
+- React Native 📱
