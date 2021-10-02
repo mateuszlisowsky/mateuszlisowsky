@@ -21,7 +21,7 @@
 - Gatsby.js 🤵
     - GraphQL 🎀
     - Styled Components 🖼
-    - WPGatsby 
+    - WPGatsby 🔗
 - Wordpress 🌎
     - CPT and Taxonomies 🧵
     - ACF 📝
