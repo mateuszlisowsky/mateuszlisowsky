@@ -5,8 +5,8 @@
 
 ### My biggest projects, so far! 💡
 #### Commercial
-- ![Prodinity 🔬](https://prodinity.netlify.app) - Gatsby based landing site highly focused on integration with its user-friendly CRM - Wordpress, which is accessed via GraphQL API
-- ![Essence Foundation ☯](https://essencefoundation.pl) - Wordpress Page which utilized Polylang, custom taxonomies, CPT and ACF.
+- [Prodinity 🔬](https://prodinity.netlify.app) - Gatsby based landing site highly focused on integration with its user-friendly CRM - Wordpress, which is accessed via GraphQL API
+- [Essence Foundation ☯](https://essencefoundation.pl) - Wordpress Page which utilized Polylang, custom taxonomies, CPT and ACF.
 #### Personal
 - ![Scuvo 🌊](https://github.com/FoxSaysDerp/scuvo-app) - simple PWA for posting scuba-diving tips, created with Firebase implementation
 - ![Vataha 🐾](https://github.com/FoxSaysDerp/vataha) - lightweight social media revolving around posting pictures of animals, created with PHP
