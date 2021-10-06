@@ -29,11 +29,14 @@
 - Wordpress 🌎
     - CPT and Taxonomies 🧵
     - ACF 📝
+- MySQL 🥼
 - Git ✔
 - English (C1) 💬
 
 ## 🌱Currently getting to know with:
 - React.js 💎
+- Express.js 🚇
+- MongoDB 🍃
 - PHP 🕯
 
 ## 🔭Planning on learning:
