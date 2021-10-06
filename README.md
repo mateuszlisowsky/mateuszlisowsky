@@ -1,12 +1,12 @@
 ### Hello! 😊
 
-🔴 My name is Mateusz and I'm currently a freshly-baked web development apprentice - mainly focusing on front-end, but having back-end in mind as well.
+🔴 My name is Mateusz and I'm a junior front-end developer which tries really hard and ambitiously to get things done. I also keep a close proximity to back-end, so I can taste the air of full-stack development. 🤓
 
 
 ### My biggest projects, so far! 💡
 #### Commercial
-- [Prodinity 🔬](https://prodinity.netlify.app) - Gatsby based landing site highly focused on integration with its user-friendly CRM - Wordpress, which is accessed via GraphQL API
-- [Essence Foundation ☯](https://essencefoundation.pl) - Wordpress Page which utilized Polylang, custom taxonomies, CPT and ACF.
+- [Prodinity 🔬](https://prodinity.netlify.app) - Gatsby-based landing site highly focused on integration with its user-friendly CRM - Wordpress, which is accessed via GraphQL API
+- [Essence Foundation ☯](https://essencefoundation.pl) - Wordpress Page which utilize Polylang, custom taxonomies, CPT and ACF.
 #### Personal
 - ![Scuvo 🌊](https://github.com/FoxSaysDerp/scuvo-app) - simple PWA for posting scuba-diving tips, created with Firebase implementation
 - ![Vataha 🐾](https://github.com/FoxSaysDerp/vataha) - lightweight social media revolving around posting pictures of animals, created with PHP
