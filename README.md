@@ -45,5 +45,5 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foxsaysderp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foxsaysderp&layout=compact)](https://github.com/FoxSaysDerp?tab=repositories)
 
