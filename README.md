@@ -37,7 +37,7 @@
 ![Grunt](https://img.shields.io/badge/-Grunt-f5daab?style=flat-square&logo=Grunt)
 ![PHP 5](https://img.shields.io/badge/-PHP5-b4b6d4?style=flat-square&logo=php)
 
-## 🌱Currently getting to know with:
+## 🌱Getting to know with:
 ![Node.js](https://img.shields.io/badge/-Node.js-a1f0a1?style=flat-square&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-8a8a8a?style=flat-square&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-a5e8a5?style=flat-square&logo=mongodb)
