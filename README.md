@@ -6,11 +6,6 @@
 [![Gmail](https://img.shields.io/badge/-foxsaysderp@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:foxsaysderp@gmail.com)](mailto:foxsaysderp@gmail.com)
 
 ### My biggest projects, so far! 💡
-#### Commercial
-- [Prodinity 🔬](https://prodinity.com) - Gatsby-based landing site highly focused on integration with its user-friendly CRM - Wordpress, which is accessed via GraphQL API
-- [Ogród Świateł 💡](https://ogrodswiatel.pl/) - Similarly to Prodinity, it's a Gatsby+GraphQL+Wordpress-based landing site.
-- [Essence Foundation ☯](https://essencefoundation.pl) - Wordpress Page which utilizes Polylang, custom taxonomies, CPT and ACF.
-#### Personal
 - ![Scuvo 🌊](https://github.com/FoxSaysDerp/scuvo-app) - simple PWA for posting scuba-diving tips, created with Firebase implementation
 - ![Vataha 🐾](https://github.com/FoxSaysDerp/vataha) - lightweight social media revolving around posting pictures of animals, created with PHP
 - ![Smoothe Delight 🍨](https://github.com/FoxSaysDerp/smoothie-delight) - pleasant landing page for a fictional brand, created with Bootstrap
