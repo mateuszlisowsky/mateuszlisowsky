@@ -1,11 +1,12 @@
 ### Hello! 😊
 
-🔴 My name is Mateusz and I'm a junior front-end developer which tries really hard and ambitiously to get things done. I also keep a close proximity to back-end, so I can taste the air of full-stack development. 🤓
+🔴 My name is Mateusz and I'm a junior front-end developer who tries really hard to get things done in an applicable way. 🤓
 
 [![Linkedin](https://img.shields.io/badge/-foxsaysderp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/foxsaysderp/)](https://www.linkedin.com/in/foxsaysderp/)
 [![Gmail](https://img.shields.io/badge/-foxsaysderp@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:foxsaysderp@gmail.com)](mailto:foxsaysderp@gmail.com)
 
 ### My biggest projects, so far! 💡
+- ![FrontendMentor.io Projects 😉](https://github.com/FoxSaysDerp/frontendmentor-projects) - completing FM challenges using React
 - ![Scuvo 🌊](https://github.com/FoxSaysDerp/scuvo-app) - simple PWA for posting scuba-diving tips, created with Firebase implementation
 - ![Vataha 🐾](https://github.com/FoxSaysDerp/vataha) - lightweight social media revolving around posting pictures of animals, created with PHP
 - ![Smoothe Delight 🍨](https://github.com/FoxSaysDerp/smoothie-delight) - pleasant landing page for a fictional brand, created with Bootstrap
