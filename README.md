@@ -6,10 +6,10 @@
 [![Gmail](https://img.shields.io/badge/-foxsaysderp@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:foxsaysderp@gmail.com)](mailto:foxsaysderp@gmail.com)
 
 ### My biggest projects, so far! 💡
+- ![Odyssey 📷](https://github.com/FoxSaysDerp/odyssey-app) - Instagram clone based on MERN stack
 - ![FrontendMentor.io Projects 😉](https://github.com/FoxSaysDerp/frontendmentor-projects) - completing FM challenges using React
 - ![Scuvo 🌊](https://github.com/FoxSaysDerp/scuvo-app) - simple PWA for posting scuba-diving tips, created with Firebase implementation
 - ![Vataha 🐾](https://github.com/FoxSaysDerp/vataha) - lightweight social media revolving around posting pictures of animals, created with PHP
-- ![Smoothe Delight 🍨](https://github.com/FoxSaysDerp/smoothie-delight) - pleasant landing page for a fictional brand, created with Bootstrap
 
 -----
 
