@@ -32,6 +32,7 @@
 ![Express](https://img.shields.io/badge/-Express-8a8a8a?style=flat-square&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-a5e8a5?style=flat-square&logo=mongodb)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
+![Docker](https://img.shields.io/badge/-Docker-2392e6?style=flat-square&logo=docker)
 ![Webpack](https://img.shields.io/badge/-Webpack-cce2ed?style=flat-square&logo=webpack)
 ![Gulp](https://img.shields.io/badge/-Gulp-ebc5c5?style=flat-square&logo=Gulp)
 ![Grunt](https://img.shields.io/badge/-Grunt-f5daab?style=flat-square&logo=Grunt)
