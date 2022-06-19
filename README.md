@@ -16,17 +16,20 @@
 
 ## 💻Fluent in:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![SCSS](https://img.shields.io/badge/-SCSS-edc0d6?style=flat-square&logo=sass)
 ![JavaScript ES6+](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=gatsby)
+
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![SCSS](https://img.shields.io/badge/-SCSS-edc0d6?style=flat-square&logo=sass)
 ![Styled Components](https://img.shields.io/badge/-Styled%20Components-e6a5ba?style=flat-square&logo=styled-components)
+
 ![Wordpress](https://img.shields.io/badge/-Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-849fb3?style=flat-square&logo=mysql)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
+
 ![npm](https://img.shields.io/badge/-npm-white?style=flat-square&logo=npm)
 ![Git](https://img.shields.io/badge/-Git-f09d8d?style=flat-square&logo=git)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 ![Webpack](https://img.shields.io/badge/-Webpack-cce2ed?style=flat-square&logo=webpack)
 
 ## 🔭So far, so good:
