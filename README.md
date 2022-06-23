@@ -16,7 +16,7 @@
 
 ## 💻Fluent in:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![JavaScript ES6+](https://img.shields.io/badge/-JavaScript-312c06?style=flat-square&logo=javascript)
+![JavaScript ES6+](https://img.shields.io/badge/-JavaScript-181603?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-091519?style=flat-square&logo=react)
 ![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=gatsby)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
