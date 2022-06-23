@@ -22,7 +22,6 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![SCSS](https://img.shields.io/badge/-SCSS-edc0d6?style=flat-square&logo=sass)
 ![Styled Components](https://img.shields.io/badge/-Styled%20Components-fbf0f4?style=flat-square&logo=styled-components)
-![Wordpress](https://img.shields.io/badge/-Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-d9e4ec?style=flat-square&logo=mysql)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 ![npm](https://img.shields.io/badge/-npm-white?style=flat-square&logo=npm)
@@ -38,7 +37,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-D3E9FA?style=flat-square&logo=docker)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-c6dafb?style=flat-square&logo=googlecloud)
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops)
-![PHP 5](https://img.shields.io/badge/-PHP5-b4b6d4?style=flat-square&logo=php)
 
 ## 🌱Getting to know with:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-8cadd1?style=flat-square&logo=typescript)
