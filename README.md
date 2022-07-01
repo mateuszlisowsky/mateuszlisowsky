@@ -1,9 +1,15 @@
 ### Hello! 😊
 
-🔴 My name is Mateusz and I'm a junior front-end developer who tries really hard to get things done in an applicable way. 🤓
+🔴 My name is Mateusz and I'm a front-end developer who tries really hard to get things done in an applicable way. 🤓
 
 [![Linkedin](https://img.shields.io/badge/-foxsaysderp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/foxsaysderp/)](https://www.linkedin.com/in/foxsaysderp/)
 [![Gmail](https://img.shields.io/badge/-foxsaysderp@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:foxsaysderp@gmail.com)](mailto:foxsaysderp@gmail.com)
+
+![macOS](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=macos&logoColor=white&color=000000)
+![VSCode](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=Visual%20Studio%20Code&logoColor=white&color=003253)
+![Cappuciono](https://img.shields.io/badge/Coffee-Cappuccino-informational?style=flat&logo=ko-fi&logoColor=white&color=2F2625)
+![Zealios V2](https://img.shields.io/badge/Switches-Zealios%20v2-informational?style=flat&logo=metro&logoColor=white&color=3B2080)
+
 
 ### My biggest projects, so far! 💡
 - ![Odyssey 📷](https://github.com/FoxSaysDerp/odyssey-app) - Instagram clone based on MERN stack
@@ -14,7 +20,7 @@
 
 -----
 
-## 💻Fluent in:
+## 💻Proficient in:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![JavaScript ES6+](https://img.shields.io/badge/-JavaScript-181603?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-091519?style=flat-square&logo=react)
@@ -37,6 +43,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-D3E9FA?style=flat-square&logo=docker)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-c6dafb?style=flat-square&logo=googlecloud)
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops)
+![Python](https://img.shields.io/badge/-Python-FADD84?style=flat-square&logo=python)
 
 ## 🌱Getting to know with:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-8cadd1?style=flat-square&logo=typescript)
