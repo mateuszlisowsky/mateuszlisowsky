@@ -12,7 +12,7 @@
 
 
 ### My biggest projects, so far! 💡
-- ![Odyssey 📷](https://github.com/FoxSaysDerp/odyssey-app) - Instagram clone based on MERN stack
+- ![Odyssey 📷](https://github.com/FoxSaysDerp/odyssey-app) - Instagram clone based on MERN - MongoDB, Express, React, Node.js stack
 - ![Managify 👔](https://github.com/FoxSaysDerp/managify-app) - Team and task management web application, created using React, MaterialUI and Firebase
 - ![Scuvo 🌊](https://github.com/FoxSaysDerp/scuvo-app) - simple PWA for posting scuba-diving tips, created with Firebase and vanilla JavaScript
 - ![Vataha 🐾](https://github.com/FoxSaysDerp/vataha) - lightweight social media revolving around posting pictures of animals, created with PHP using MySQL DB
