@@ -12,6 +12,7 @@
 
 
 ### My biggest projects, so far! 💡
+- Keyboardify 🎹 (![Client](https://github.com/FoxSaysDerp/keyboardify-client) / ![Server](https://github.com/FoxSaysDerp/keyboardify-server)) - E-commerce fullstack application based on Go (Echo, Gorm, SQLite), Firebase Auth and React
 - ![Odyssey 📷](https://github.com/FoxSaysDerp/odyssey-app) - Instagram clone based on MERN - MongoDB, Express, React, Node.js stack
 - ![Managify 👔](https://github.com/FoxSaysDerp/managify-app) - Team and task management web application, created using React, MaterialUI and Firebase
 - ![Scuvo 🌊](https://github.com/FoxSaysDerp/scuvo-app) - simple PWA for posting scuba-diving tips, created with Firebase and vanilla JavaScript
