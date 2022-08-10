@@ -49,9 +49,9 @@
 ## 🌱Getting to know with:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-8cadd1?style=flat-square&logo=typescript)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![Go](https://img.shields.io/badge/-Go-cceef7?style=flat-square&logo=go)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
 ![Java](https://img.shields.io/badge/-Java-ff0000?style=flat-square&logo=openjdk)
-![Go](https://img.shields.io/badge/-Go-cceef7?style=flat-square&logo=go)
 
 ## Top languages
 
