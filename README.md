@@ -7,7 +7,6 @@
 
 ![macOS](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=macos&logoColor=white&color=000000)
 ![VSCode](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=Visual%20Studio%20Code&logoColor=white&color=003253)
-![Cappuciono](https://img.shields.io/badge/Coffee-Cappuccino-informational?style=flat&logo=ko-fi&logoColor=white&color=2F2625)
 ![Zealios V2 67g](https://img.shields.io/badge/Switches-Zealios%20v2%2067g-informational?style=flat&logo=metro&logoColor=white&color=3B2080)
 
 
