@@ -35,6 +35,8 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-eff6f9?style=flat-square&logo=webpack)
 ![Firebase](https://img.shields.io/badge/-Firebase-4c3c0c?style=flat-square&logo=firebase)
 ![Bash](https://img.shields.io/badge/-Bash-0f2207?style=flat-square&logo=gnubash)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-d6cbe8?style=flat-square&logo=bootstrap)
+![MaterialUI](https://img.shields.io/badge/-MaterialUI-b2d8ff?style=flat-square&logo=mui)
 
 ## 🔭So far, so good:
 ![Node.js](https://img.shields.io/badge/-Node.js-a1f0a1?style=flat-square&logo=node.js)
