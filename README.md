@@ -21,12 +21,11 @@
 -----
 
 ## 💻Proficient in:
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![JavaScript ES6+](https://img.shields.io/badge/-JavaScript-181603?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-091519?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-8cadd1?style=flat-square&logo=typescript)
 ![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=gatsby)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![SCSS](https://img.shields.io/badge/-SCSS-edc0d6?style=flat-square&logo=sass)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 ![Styled Components](https://img.shields.io/badge/-Styled%20Components-fbf0f4?style=flat-square&logo=styled-components)
 ![MySQL](https://img.shields.io/badge/-MySQL-d9e4ec?style=flat-square&logo=mysql)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
@@ -41,6 +40,7 @@
 ## 🔭So far, so good:
 ![Node.js](https://img.shields.io/badge/-Node.js-a1f0a1?style=flat-square&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-8a8a8a?style=flat-square&logo=express)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-a5e8a5?style=flat-square&logo=mongodb)
 ![Docker](https://img.shields.io/badge/-Docker-D3E9FA?style=flat-square&logo=docker)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-c6dafb?style=flat-square&logo=googlecloud)
@@ -49,10 +49,10 @@
 ![Java](https://img.shields.io/badge/-Java-ff0000?style=flat-square&logo=openjdk)
 ![Go](https://img.shields.io/badge/-Go-cceef7?style=flat-square&logo=go)
 
+
 ## 🌱Getting to know with:
-![TypeScript](https://img.shields.io/badge/-TypeScript-8cadd1?style=flat-square&logo=typescript)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
+![Rust](https://img.shields.io/badge/-Rust-191919?style=flat-square&logo=rust)
+
 
 ## Top languages
 
