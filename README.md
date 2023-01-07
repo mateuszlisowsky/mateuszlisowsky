@@ -1,6 +1,6 @@
 ### Hello! 😊
 
-🔴 My name is Mateusz and I'm a front-end developer who tries really hard to get things done in an applicable way. 🤓
+🔴 My name is Mateusz and I'm a frontend developer who tries really hard to get things done in an applicable way. 🤓
 
 [![Linkedin](https://img.shields.io/badge/-foxsaysderp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/foxsaysderp/)](https://www.linkedin.com/in/foxsaysderp/)
 [![Gmail](https://img.shields.io/badge/-foxsaysderp@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:foxsaysderp@gmail.com)](mailto:foxsaysderp@gmail.com)
