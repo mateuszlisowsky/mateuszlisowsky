@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-foxsaysderp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/foxsaysderp/)](https://www.linkedin.com/in/foxsaysderp/)
 [![Gmail](https://img.shields.io/badge/-foxsaysderp@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:foxsaysderp@gmail.com)](mailto:foxsaysderp@gmail.com)
 
-![macOS](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=macos&logoColor=white&color=000000)
+![macOS](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=white&color=000000)
 ![VSCode](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=Visual%20Studio%20Code&logoColor=white&color=003253)
 ![Zealios V2 67g](https://img.shields.io/badge/Switches-Zealios%20v2%2067g-informational?style=flat&logo=metro&logoColor=white&color=3B2080)
 
@@ -34,6 +34,7 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-eff6f9?style=flat-square&logo=webpack)
 ![Firebase](https://img.shields.io/badge/-Firebase-4c3c0c?style=flat-square&logo=firebase)
 ![Bash](https://img.shields.io/badge/-Bash-0f2207?style=flat-square&logo=gnubash)
+![Linux](https://img.shields.io/badge/-Linux-fef3d2?style=flat-square&logo=linux)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-d6cbe8?style=flat-square&logo=bootstrap)
 ![MaterialUI](https://img.shields.io/badge/-MaterialUI-b2d8ff?style=flat-square&logo=mui)
 
@@ -45,13 +46,15 @@
 ![Docker](https://img.shields.io/badge/-Docker-D3E9FA?style=flat-square&logo=docker)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-c6dafb?style=flat-square&logo=googlecloud)
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops)
+![NGINX](https://img.shields.io/badge/-NGINX-00481b?style=flat-square&logo=nginx)
 ![Python](https://img.shields.io/badge/-Python-FADD84?style=flat-square&logo=python)
 ![Java](https://img.shields.io/badge/-Java-ff0000?style=flat-square&logo=openjdk)
 ![Go](https://img.shields.io/badge/-Go-cceef7?style=flat-square&logo=go)
 
 
 ## 🌱Getting to know with:
-![Rust](https://img.shields.io/badge/-Rust-191919?style=flat-square&logo=rust)
+![Spring Boot](https://img.shields.io/badge/-Spring-edf7e7?style=flat-square&logo=spring)
+![.NET](https://img.shields.io/badge/-.NET-191919?style=flat-square&logo=dotnet)
 
 
 ## Top languages
