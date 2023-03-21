@@ -57,7 +57,11 @@
 ![.NET](https://img.shields.io/badge/-.NET-191919?style=flat-square&logo=dotnet)
 
 
-## Top languages
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foxsaysderp&layout=compact)](https://github.com/FoxSaysDerp?tab=repositories)
+
+
+## 🔥 Daily reminder
+[![GitHub Streak](https://streak-stats.demolab.com?user=FoxSaysDerp&border_radius=6&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+
 
