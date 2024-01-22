@@ -1,4 +1,4 @@
-### Hello! 😊
+### Hello! 👋
 
 🔴 My name is Mateusz and I'm a frontend developer who tries really hard to get things done in an applicable way. 🤓
 
@@ -26,6 +26,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-8cadd1?style=flat-square&logo=typescript)
 ![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=gatsby)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
 ![Styled Components](https://img.shields.io/badge/-Styled%20Components-fbf0f4?style=flat-square&logo=styled-components)
 ![MySQL](https://img.shields.io/badge/-MySQL-d9e4ec?style=flat-square&logo=mysql)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
@@ -40,8 +41,9 @@
 
 ## 🔭So far, so good:
 ![Node.js](https://img.shields.io/badge/-Node.js-a1f0a1?style=flat-square&logo=node.js)
+![NestJS](https://img.shields.io/badge/-NestJS-de224d?style=flat-square&logo=nestjs)
+![Prisma](https://img.shields.io/badge/-Prisma-191f2b?style=flat-square&logo=prisma)
 ![Express](https://img.shields.io/badge/-Express-8a8a8a?style=flat-square&logo=express)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-a5e8a5?style=flat-square&logo=mongodb)
 ![Docker](https://img.shields.io/badge/-Docker-D3E9FA?style=flat-square&logo=docker)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-c6dafb?style=flat-square&logo=googlecloud)
