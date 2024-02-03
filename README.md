@@ -11,12 +11,11 @@
 
 
 ### My biggest projects, so far! 💡
-- Vendor.io (![Client](https://github.com/vendor-io/react-client) / ![Server](https://github.com/vendor-io/server)) - e-commerce fullstack application based on Go (Echo, Gorm, SQLite), Firebase Auth and React
-- ![Odyssey 📷](https://github.com/FoxSaysDerp/odyssey-app) - Instagram clone based on MERN - MongoDB, Express, React, Node.js stack
-- ![Managify 👔](https://github.com/FoxSaysDerp/managify-app) - Team and task management web application, created using React, MaterialUI and Firebase
-- ![Scuvo 🌊](https://github.com/FoxSaysDerp/scuvo-app) - simple PWA for posting scuba-diving tips, created with Firebase and vanilla JavaScript
-- ![Vataha 🐾](https://github.com/FoxSaysDerp/vataha) - lightweight social media revolving around posting pictures of animals, created with PHP using MySQL DB
-- ![FrontendMentor.io Projects 😉](https://github.com/FoxSaysDerp/frontendmentor-projects) - completing FM challenges using React
+- Vendor.io 💵 ([Client](https://github.com/vendor-io/react-client) / [Server](https://github.com/vendor-io/server)) - e-commerce fullstack application based on Go, Firebase Auth and React
+- [Odyssey 📷](https://github.com/FoxSaysDerp/odyssey-app) - Instagram clone based on MERN - MongoDB, Express, React, Node.js stack
+- [Managify 👔](https://github.com/FoxSaysDerp/managify-app) - Team and task management web application, created using React, MaterialUI and Firebase
+- [Scuvo 🌊](https://github.com/FoxSaysDerp/scuvo-app) - simple PWA for posting scuba-diving tips, created with Firebase and vanilla JavaScript
+- [Vataha 🐾](https://github.com/FoxSaysDerp/vataha) - lightweight social media revolving around posting pictures of animals, created with PHP using MySQL DB
 
 -----
 
