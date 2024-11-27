@@ -2,8 +2,8 @@
 
 🔴 My name is Mateusz and I'm a frontend developer who tries really hard to get things done in an applicable way. 🤓
 
-[![Linkedin](https://img.shields.io/badge/-foxsaysderp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/foxsaysderp/)](https://www.linkedin.com/in/foxsaysderp/)
-[![Gmail](https://img.shields.io/badge/-foxsaysderp@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:foxsaysderp@gmail.com)](mailto:foxsaysderp@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-mateuszlisowsky-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/foxsaysderp/)](https://www.linkedin.com/in/mateuszlisowsky/)
+[![Gmail](https://img.shields.io/badge/-mateusz.lisowski@nxtweb.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:foxsaysderp@gmail.com)](mailto:mateusz.lisowski@nxtweb.dev)
 
 ![macOS](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=white&color=000000)
 ![VSCode](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=Visual%20Studio%20Code&logoColor=white&color=003253)
@@ -12,10 +12,10 @@
 
 ### My biggest projects, so far! 💡
 - Vendor.io 💵 ([Client](https://github.com/vendor-io/react-client) / [Server](https://github.com/vendor-io/server)) - e-commerce fullstack application based on Go, Firebase Auth and React
-- [Odyssey 📷](https://github.com/FoxSaysDerp/odyssey-app) - Instagram clone based on MERN - MongoDB, Express, React, Node.js stack
-- [Managify 👔](https://github.com/FoxSaysDerp/managify-app) - Team and task management web application, created using React, MaterialUI and Firebase
-- [Scuvo 🌊](https://github.com/FoxSaysDerp/scuvo-app) - simple PWA for posting scuba-diving tips, created with Firebase and vanilla JavaScript
-- [Vataha 🐾](https://github.com/FoxSaysDerp/vataha) - lightweight social media revolving around posting pictures of animals, created with PHP using MySQL DB
+- [Odyssey 📷](https://github.com/mateuszlisowsky/odyssey-app) - Instagram clone based on MERN - MongoDB, Express, React, Node.js stack
+- [Managify 👔](https://github.com/mateuszlisowsky/managify-app) - Team and task management web application, created using React, MaterialUI and Firebase
+- [Scuvo 🌊](https://github.com/mateuszlisowsky/scuvo-app) - simple PWA for posting scuba-diving tips, created with Firebase and vanilla JavaScript
+- [Vataha 🐾](https://github.com/mateuszlisowsky/vataha) - lightweight social media revolving around posting pictures of animals, created with PHP using MySQL DB
 
 -----
 
