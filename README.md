@@ -1,9 +1,10 @@
 ### Hello! 👋
 
-🔴 My name is Mateusz and I'm a frontend developer who tries really hard to get things done in an applicable way. 🤓
+🔴 My name is Mateusz and I'm a fullstack developer with direct focus for ![React](https://img.shields.io/badge/-091519?style=flat-square&logo=react) React-based frontend applications. Also exceling at ![Node.js](https://img.shields.io/badge/-191f2b?style=flat-square&logo=node.js) Node.js backends. 🤓
 
-[![Linkedin](https://img.shields.io/badge/-mateuszlisowsky-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/foxsaysderp/)](https://www.linkedin.com/in/mateuszlisowsky/)
-[![Gmail](https://img.shields.io/badge/-mateusz.lisowski@nxtweb.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:foxsaysderp@gmail.com)](mailto:mateusz.lisowski@nxtweb.dev)
+
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/mateuszlisowsky-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/mateuszlisowsky/)
+[![Gmail](https://img.shields.io/badge/-mateusz.lisowski@nxtweb.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mateusz.lisowski@nxtweb.dev)](mailto:mateusz.lisowski@nxtweb.dev)
 
 ![macOS](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=white&color=000000)
 ![VSCode](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=Visual%20Studio%20Code&logoColor=white&color=003253)
@@ -25,6 +26,11 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-8cadd1?style=flat-square&logo=typescript)
 ![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=gatsby)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![Node.js](https://img.shields.io/badge/-Node.js-a1f0a1?style=flat-square&logo=node.js)
+![NestJS](https://img.shields.io/badge/-NestJS-de224d?style=flat-square&logo=nestjs)
+![Prisma](https://img.shields.io/badge/-Prisma-191f2b?style=flat-square&logo=prisma)
+![Express](https://img.shields.io/badge/-Express-8a8a8a?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-a5e8a5?style=flat-square&logo=mongodb)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
 ![Styled Components](https://img.shields.io/badge/-Styled%20Components-fbf0f4?style=flat-square&logo=styled-components)
 ![MySQL](https://img.shields.io/badge/-MySQL-d9e4ec?style=flat-square&logo=mysql)
@@ -38,12 +44,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-d6cbe8?style=flat-square&logo=bootstrap)
 ![MaterialUI](https://img.shields.io/badge/-MaterialUI-b2d8ff?style=flat-square&logo=mui)
 
-## 🔭So far, so good:
-![Node.js](https://img.shields.io/badge/-Node.js-a1f0a1?style=flat-square&logo=node.js)
-![NestJS](https://img.shields.io/badge/-NestJS-de224d?style=flat-square&logo=nestjs)
-![Prisma](https://img.shields.io/badge/-Prisma-191f2b?style=flat-square&logo=prisma)
-![Express](https://img.shields.io/badge/-Express-8a8a8a?style=flat-square&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-a5e8a5?style=flat-square&logo=mongodb)
+## 🔭Also exceling at:
 ![Docker](https://img.shields.io/badge/-Docker-D3E9FA?style=flat-square&logo=docker)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-c6dafb?style=flat-square&logo=googlecloud)
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops)
